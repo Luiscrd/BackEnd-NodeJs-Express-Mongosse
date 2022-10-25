@@ -1,5 +1,5 @@
 {
-  "name": "ahut-server-angular",
+  "name": "auth-server-angular",
   "version": "1.0.0",
   "description": "Server de login para app en Angular",
   "main": "index.js",
